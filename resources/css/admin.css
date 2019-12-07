@@ -1,0 +1,36 @@
+.item-notification {
+    background: #d2d5d9;
+    height: 40px;
+    border-bottom: 1px solid gray;
+}
+
+.notifications a {
+    text-decoration: none;
+}
+
+.notifications::before {
+    display: none;
+}
+
+.item-notification::before {
+    display: none!important;
+}
+
+.clear-background {
+    background: #fff;
+}
+
+.text {
+    height: 100%;
+    display: block;
+}
+
+.text span {
+    height: 50px;
+    display: block;
+}
+
+.pull-left {
+    padding: 5px;
+}
+

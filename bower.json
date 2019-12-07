@@ -1,0 +1,22 @@
+{
+  "name": "project1-sun",
+  "description": "",
+  "main": "",
+  "authors": [
+    "PhamNgocQuy <quypn96@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "template-client": "*",
+    "metronic-admin": "*"
+  }
+}
